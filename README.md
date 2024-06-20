@@ -110,13 +110,7 @@ This script performs the following steps:
 - **Dependencies**: Ensure all dependencies are correctly installed. Refer to `requirements.txt` for the complete list.
 - **Website Structure**: The script assumes a specific structure for the target webpage. If the structure changes, the script may need modifications.
 
-## Contributions
 
-Contributions to this project are welcome. Please fork the repository and create a pull request with your changes. Ensure your code adheres to the PEP 8 style guide.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
